@@ -1,5 +1,3 @@
-OWSIiZ jest super!
-
 # cypherpunk-research
 
 The contents of this repository have been moved to its own dedicated website:
